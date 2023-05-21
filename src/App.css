@@ -50,4 +50,7 @@ button{
  max-width: fit-content;
   
   }
+  img{
+    width: 0
+  }
 }
